@@ -1,5 +1,6 @@
 package com.example.lab08;
 
+//testing if CI works
 public class City {
     private String city;
     private String province;
